@@ -152,7 +152,10 @@
 	          </div>
           </div>
           <div class="col-md-6 d-flex align-items-stretch pb-5 pb-md-0">
-						<div id="map"></div>
+						<!---<div id="map"></div>---->
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.621546817346!2d88.82555041420719!3d23.03766392154663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ff35a9eb185bfb%3A0x1d045e5d96b40fc3!2sWIFI%20ZONE%20RESTRO!5e0!3m2!1sen!2sin!4v1582674833301!5m2!1sen!2sin" width="600" height="610" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+
 					</div>
         </div>
 			</div>
